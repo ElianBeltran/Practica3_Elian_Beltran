@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica3_Elian_Beltran</string>
+    <string name="hint_name">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="bien">Bienvenido</string>
+    <string name="Email">Email</string>
+    <string name="Teléfono">telefono</string>
+    <string name="Twitter">twitter</string>
+    <string name="Regresar">regresar</string>
+</resources>
